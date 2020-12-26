@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="6" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="78" started-at="2020-08-28T13:14:31 IST" finished-at="2020-08-28T13:14:31 IST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="78" started-at="2020-08-28T13:14:31 IST" finished-at="2020-08-28T13:14:31 IST">
+      <class name="MavenDemoProject.MavenJava.SeleniumTest">
+        <test-method status="PASS" signature="BrowserAutomation()[pri:0, instance:MavenDemoProject.MavenJava.SeleniumTest@4bbfb90a]" name="BrowserAutomation" duration-ms="0" started-at="2020-08-28T13:14:31 IST" finished-at="2020-08-28T13:14:31 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BrowserAutomation -->
+        <test-method status="PASS" signature="ElementsUI()[pri:0, instance:MavenDemoProject.MavenJava.SeleniumTest@4bbfb90a]" name="ElementsUI" duration-ms="0" started-at="2020-08-28T13:14:31 IST" finished-at="2020-08-28T13:14:31 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ElementsUI -->
+      </class> <!-- MavenDemoProject.MavenJava.SeleniumTest -->
+      <class name="MavenDemoProject.MavenJava.AppiumNewTest">
+        <test-method status="PASS" signature="IOSApp()[pri:0, instance:MavenDemoProject.MavenJava.AppiumNewTest@9660f4e]" name="IOSApp" duration-ms="0" started-at="2020-08-28T13:14:31 IST" finished-at="2020-08-28T13:14:31 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- IOSApp -->
+        <test-method status="PASS" signature="NativeAppAndroid()[pri:0, instance:MavenDemoProject.MavenJava.AppiumNewTest@9660f4e]" name="NativeAppAndroid" duration-ms="0" started-at="2020-08-28T13:14:31 IST" finished-at="2020-08-28T13:14:31 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- NativeAppAndroid -->
+      </class> <!-- MavenDemoProject.MavenJava.AppiumNewTest -->
+      <class name="MavenDemoProject.MavenJava.RestAPITest">
+        <test-method status="PASS" signature="DeleteTwitter()[pri:0, instance:MavenDemoProject.MavenJava.RestAPITest@7c29daf3]" name="DeleteTwitter" duration-ms="0" started-at="2020-08-28T13:14:31 IST" finished-at="2020-08-28T13:14:31 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- DeleteTwitter -->
+        <test-method status="PASS" signature="PostJira()[pri:0, instance:MavenDemoProject.MavenJava.RestAPITest@7c29daf3]" name="PostJira" duration-ms="0" started-at="2020-08-28T13:14:31 IST" finished-at="2020-08-28T13:14:31 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- PostJira -->
+      </class> <!-- MavenDemoProject.MavenJava.RestAPITest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
